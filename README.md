@@ -27,6 +27,7 @@ If you want to see the final webpage for my code, please visit my hosted website
 HTML Tags https://www.w3schools.com/tags/
 HTML Tags https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 Pseudoclasses https://www.w3schools.com/cssref/css_selectors.asp
+Meta tags https://www.w3schools.com/tags/tag_meta.asp
 
 
 ## Author
