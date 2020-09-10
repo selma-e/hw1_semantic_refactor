@@ -7,7 +7,7 @@ In this homework, we are given an already built out website. This website is bui
 I was motivated by having the highest Lighthouse score in my developer tools for accessibility and SEO. Having the highest Lighthouse score for these things will make the website more accessible to people with disabilities and screen readers. We are not all able-bodied, and we must strive to make our web accessible to every person whether someone is blind, color-blind, deaf, has poor internet connection, etc.
 
 A couple of things I learned in this:
-*Pseudoclasses, primarily the hover pseudoclass
+**Pseudoclasses, primarily the hover pseudoclass
 *SEO metadata
 *The difference between an alt tag and an aria tag
 *To commit multiple times so you can revert back with a pull if you need to
