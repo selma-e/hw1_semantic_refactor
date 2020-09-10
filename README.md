@@ -8,10 +8,10 @@ I was motivated by having the highest Lighthouse score in my developer tools for
 
 A couple of things I learned in this:<br>
 
-*Pseudoclasses, primarily the hover pseudoclass
-*SEO metadata
-*The difference between an alt tag and an aria tag
-*To commit multiple times so you can revert back with a pull if you need to
+*Pseudoclasses, primarily the hover pseudoclass<br>
+*SEO metadata<br>
+*The difference between an alt tag and an aria tag<br>
+*To commit multiple times so you can revert back with a pull if you need to<br>
 *I learned the hard way that I was working straight out of the class repository and a git pull for class eliminated all my homework. So I also learned to organize my own local folders better and to keep an eye on what file path shows up on my Visual Studio.
 
 The hardest thing for me was deciding when to use the tags section, article, figure, etc. It's very hazy to me how those are different, so I will need to continue understanding that.
@@ -25,9 +25,9 @@ If you want to see the final webpage for my code, please visit my hosted website
 
 ## Resources Used
 
-HTML Tags https://www.w3schools.com/tags/
-HTML Tags https://developer.mozilla.org/en-US/docs/Web/HTML/Element
-Pseudoclasses https://www.w3schools.com/cssref/css_selectors.asp
+HTML Tags https://www.w3schools.com/tags/<br>
+HTML Tags https://developer.mozilla.org/en-US/docs/Web/HTML/Element<br>
+Pseudoclasses https://www.w3schools.com/cssref/css_selectors.asp<br>
 Meta tags https://www.w3schools.com/tags/tag_meta.asp
 
 
