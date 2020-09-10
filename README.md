@@ -19,7 +19,7 @@ The hardest thing for me was deciding when to use the tags section, article, fig
 
 ## Installation
 
-If you need to pull my code for this homework, please visit my Github repository at: https://github.com/selma-e/hw1_semantic_refactor
+If you need to pull my code for this homework, please visit my Github repository at: https://github.com/selma-e/hw1_semantic_refactor<br>
 If you want to see the final webpage for my code, please visit my hosted website at: https://selma-e.github.io/hw1_semantic_refactor/
 
 
@@ -32,5 +32,5 @@ Meta tags https://www.w3schools.com/tags/tag_meta.asp
 
 
 ## Author
-Selma Elgabalawy 
+Selma Elgabalawy<br> 
 UW-SEA-FSF-PT-08-2020-U-C-TTh
